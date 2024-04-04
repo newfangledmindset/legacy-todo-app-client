@@ -1,3 +1,3 @@
-# todo-app
+# todo-app-client
 
-A java client of the todo-app project.
+A GUI client part of 'todo-app' project (using JavaFX).
